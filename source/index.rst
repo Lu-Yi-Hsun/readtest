@@ -1,10 +1,10 @@
-.. t documentation master file, created by
-   sphinx-quickstart on Sun Nov  5 21:19:49 2017.
+.. Machine Learning documentation master file, created by
+   sphinx-quickstart on Sun Nov  5 21:45:59 2017.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to t's documentation!
-=============================
+大家好n! 不簡單
+============================================
 
 .. toctree::
    :maxdepth: 2

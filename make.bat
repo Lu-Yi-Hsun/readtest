@@ -8,8 +8,8 @@ if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
 set SOURCEDIR=source
-set BUILDDIR=..
-set SPHINXPROJ=t
+set BUILDDIR=build
+set SPHINXPROJ=MachineLearning
 
 if "%1" == "" goto help
 
