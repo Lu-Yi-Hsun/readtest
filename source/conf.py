@@ -151,7 +151,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'machinelearning', 'Machine Learning Documentation',
-     [author], 1)
+     [author], )
 ]
 
 
